@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1674525704 source:c:\users\fanto\documents\cucei\seminario de algoritmia\paqueteria\main.cpp
+	<iostream>
+	<string>
+	"Paqueteria.h"
+	"Paquete.h"
+	<fstream>
+	<cstdlib>
+
+1674393275 source:c:\users\fanto\documents\cucei\seminario de algoritmia\paqueteria\paquete.cpp
+	"Paquete.h"
+
+1674393256 c:\users\fanto\documents\cucei\seminario de algoritmia\paqueteria\paquete.h
+	<iostream>
+
+1674541569 source:c:\users\fanto\documents\cucei\seminario de algoritmia\paqueteria\paqueteria.cpp
+	"Paqueteria.h"
+
+1674517916 c:\users\fanto\documents\cucei\seminario de algoritmia\paqueteria\paqueteria.h
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Paquete.h"
+

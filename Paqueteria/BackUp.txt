@@ -1,0 +1,17 @@
+4
+1036
+Jalisco, MX
+Sinaloa, MX
+1.63
+3524
+Morelos, MX
+Paris, FR
+2.63
+9632
+Caracas, VEN
+Honduras, HON
+3.62
+1111
+Dummy
+Dummy
+0
